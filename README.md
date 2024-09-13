@@ -1,6 +1,6 @@
 ## Desafio de Projeto [DIO](https://web.dio.me/)
 ***
-#### Desafio de de Projeto Bootcamp DIO/Claro - Java com Spring Boot
+#### Desafio de Projeto Bootcamp DIO/Claro - Java com Spring Boot
 
 ##### Diagrama de classes do Projeto
 
